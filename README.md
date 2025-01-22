@@ -1,5 +1,7 @@
 # Modèles multi modaux et systèmes multi agents avec langgraph
 
+lien collab: https://colab.research.google.com/drive/1blfHZ198DqUxJfh_xpbPYXykn_lRBP6v#scrollTo=QFg040ZURcZ2
+
 ## Modèle de vision
 
 Les modèles de vision par ordinateur ont aujourd'hui des performances remarquables grâce au modèle _transformers_. Les modèles de vision prennent une image en entrée et fournissent en sortie une réponse à une question sur cette image. Capable de raisonner, ils peuvent par exemple décrire une image, compter des éléments ou repérer des éléments anormaux.
